@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itroudomi.github.io/sitemap.html.gz
+Sitemap: https://itroudomi.github.io/app/sitemap.html.gz
+Sitemap: https://itroudomi.github.io/assets/sitemap.html.gz
+Sitemap: https://itroudomi.github.io/css/sitemap.html.gz
+Sitemap: https://itroudomi.github.io/includes/sitemap.html.gz
+Sitemap: https://itroudomi.github.io/item/sitemap.html.gz
+Sitemap: https://itroudomi.github.io/src/sitemap.html.gz
